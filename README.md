@@ -40,3 +40,4 @@ to build app for production.
 - TypeScript
 - Jest and Testing Library for tests.
 - Redux toolkit to manage cart.
+- Responsive design.
