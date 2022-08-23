@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { AppState } from "./store";
-import { CartState, ICart } from "../types/Cart";
+import { CartState } from "../types/Cart";
 import { cartReducers } from "./CartReducers";
 
 // Initial state

@@ -1,7 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 import { useCallback, useEffect, useState } from "react";
-import styled from "styled-components";
 import Cart from "../components/cart/Cart";
 import FooterComponent from "../components/layout/FooterComponent";
 import HeaderComponent from "../components/layout/HeaderComponent";

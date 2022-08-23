@@ -107,7 +107,8 @@ export const QuantityActions = styled.div`
   }
 `;
 export const QuantityPriceWrapper = styled.div`
-  display: none;
+  display: flex;
+  align-items: center;
 
   @media (max-width: 425px) {
     display: flex;
